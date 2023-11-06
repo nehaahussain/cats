@@ -16,11 +16,13 @@ data/common_words.txt: A file containing common English words in order of freque
 data/words.txt: A file containing many more English words in order of frequency
 gui.py: A web server for the web-based graphical user interface (GUI)
 gui_files: A directory of files needed for the graphical user interface (GUI)
+
 4. Graphical User Interface
 
 To run the GUI from your terminal:
 
 $ python3 gui.py
+
 5. Class Project Site
 
-here
+[here] (https://cs61a.org/proj/cats/#introduction)
