@@ -18,7 +18,7 @@ Files in the project:
 ### 4. Graphical User Interface
 To run the GUI from your terminal:
 ```sh
-$ python3 cats_gui.py
+python3 cats_gui.py
 ```
 ### 5. Class Project Site
 https://cs61a.org/proj/cats/#introduction
