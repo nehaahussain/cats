@@ -21,5 +21,4 @@ To run the GUI from your terminal:
 $ python3 gui.py
 ```
 ### 5. Class Project Site
-
-[here]: https://cs61a.org/proj/cats/#introduction
+https://cs61a.org/proj/cats/#introduction
