@@ -1,6 +1,6 @@
 # CS 61A Autocorrected Typing Software
 
-https://github.com/nehaahussain/cats/assets/67764423/cbb7b29f-f663-42a1-be65-a656511a2d4f
+![TEST](https://github.com/nehaahussain/cats/assets/67764423/81e8c424-ccd1-4a6b-b6c4-d3262a78317d)
 
 ### 1. Introduction
 This project involves writing a program that measures typing speed and implementing typing autocorrect, which is a feature that attempts to correct the spelling of a word after a user types it.
