@@ -1,4 +1,4 @@
-# CS 61A Autocorrected Typing Software
+#Autocorrected Typing Software
 
 ![TEST](https://github.com/nehaahussain/cats/assets/67764423/81e8c424-ccd1-4a6b-b6c4-d3262a78317d)
 
@@ -9,18 +9,6 @@ A program that measures typing speed and implements typing autocorrect, which is
 Files in the project:
 
 * `cats.py`: The typing test logic
-* `utils.py`: Utility functions for interacting with files and strings
-* `ucb.py`: Utility functions for CS 61A projects
-* `data/sample_paragraphs.txt`: A file containing text samples to be typed (scraped Wikipedia articles about various topics)
-* `data/common_words.txt`: A file containing common English words in order of frequency
-* `data/words.txt`: A file containing many more English words in order of frequency
-* `cats_gui.py`: A web server for the web-based graphical user interface (GUI)
-* `gui_files`: A directory of files needed for the graphical user interface (GUI)
 
-### 4. Graphical User Interface
-To run the GUI from your terminal:
-```sh
-python3 cats_gui.py
-```
-### 5. Class Project Site
+### 3. Class Project Site
 https://cs61a.org/proj/cats/#introduction
