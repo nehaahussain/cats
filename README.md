@@ -1,4 +1,4 @@
-#Autocorrected Typing Software
+### Autocorrected Typing Software
 
 ![TEST](https://github.com/nehaahussain/cats/assets/67764423/81e8c424-ccd1-4a6b-b6c4-d3262a78317d)
 
